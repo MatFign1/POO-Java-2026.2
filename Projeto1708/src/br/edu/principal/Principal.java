@@ -25,5 +25,4 @@ public class Principal {
 		System.out.println("Média: " + media);
 				
 	}
-
 }
